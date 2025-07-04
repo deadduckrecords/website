@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Genuine (feat. Len) - vibe advocates</title>
+  <style>
+    body {
+      margin: 40px;
+      font-family: sans-serif;
+      background: #fff;
+      color: #000;
+    }
+    .container {
+      max-width: 250px;
+    }
+    img.cover {
+      width: 250px;
+      height: auto;
+    }
+    .title {
+      margin: 10px 0 5px;
+      font-weight: bold;
+      font-size: 14px;
+    }
+    .track {
+      margin-bottom: 15px;
+      font-size: 14px;
+    }
+    .links a {
+      display: block;
+      margin: 6px 0;
+      color: #000;
+      text-decoration: none;
+      font-size: 12px;
+    }
+    .links a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/56/92/dc5692e9-b8c9-f56c-64e7-ba646342326c/199350888526.jpg/1000x1000bb.webp" alt="gggiiiiirrrrlllll cover" class="cover" />
+    <div class="title">vibe advocates</div>
+    <div class="track">Genuine (feat. Len)</div>
+    <div class="links">
+      <a href="https://open.spotify.com/album/1yiD30UhZfdocJY6qweQri" target="_blank">[LISTEN ON SPOTIFY]</a>
+      <a href="https://music.apple.com/album/genuine-feat-len-single/1819784261" target="_blank">[LISTEN ON APPLE MUSIC]</a>
+      <a href="https://youtu.be/tdZUd_fkRl8" target="_blank">[LISTEN ON YOUTUBE]</a>
+      <a href="https://www.amazon.co.uk/dp/B0FCNQ9RMH" target="_blank">[LISTEN ON AMAZON]</a>
+      <a href="https://soundcloud.com/vibe-advocates/genuine-feat-len" target="_blank">[LISTEN ON SOUNDCLOUD]</a>
+      <a href="https://tidal.com/album/441302171" target="_blank">[LISTEN ON TIDAL]</a>
+      <a href="https://www.deezer.com/en/album/770492701" target="_blank">[LISTEN ON DEEZER]</a>
+    </div>
+  </div>
+</body>
+</html>
